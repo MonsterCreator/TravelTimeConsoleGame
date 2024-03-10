@@ -1,1 +1,3 @@
 # TravelTime
+Project status: [Early development] 
+This project is a test and is intended by the developer for practicing programming skills and demonstrating them. This project is a console version of the “walker” game, where the goal of the players is to be the first to pass a linear path from start to finish. Each player in turn throws virtual dice and walks on fields (tiles). Tiles can have various positive or negative effects that add variety to the game. The map on which the players walk is generated randomly automatically, which makes each game unique. The uniqueness of this project lies in the possibility of playing over the network.
